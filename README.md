@@ -64,14 +64,6 @@ git push origin main
 git pull origin main
 ```
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=octocat&theme=tokyo-night" />
-</p>
----
 
 ## 🌟 Contribution
 
